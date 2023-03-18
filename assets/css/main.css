@@ -281,7 +281,7 @@ section {
     width: 100%;
     height: 116px;
 
-    background-image: url('/img/hero/bd-wave-bottom.svg');
+    background-image: url('img/hero/bd-wave-bottom.svg');
 }
 
 .hero {
@@ -537,7 +537,7 @@ section {
     width: 100%;
     height: 114px;
 
-    background-image: url('/img/hero/bg-wave-top.svg');
+    background-image: url('img/hero/bg-wave-top.svg');
 }
 .third::after {
     content: "";
@@ -547,7 +547,7 @@ section {
     width: 100%;
     height: 114px;
 
-    background-image: url('/img/hero/bd-wave-bottom.svg');
+    background-image: url('img/hero/bd-wave-bottom.svg');
 }
 
 .info-blog-wrapper {
@@ -558,7 +558,7 @@ section {
 
 .info-blog-wrapper__img {
     border-radius: 24px;
-    background: url('/img/info-blog/image.jpg') no-repeat center / cover;
+    background: url('img/info-blog/image.jpg') no-repeat center / cover;
     display: block;
     width: 750px;
     height: 500px;
